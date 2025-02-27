@@ -6,7 +6,7 @@
 
 from setuptools import find_packages, setup
 
-NAME = "ddionrails_datapackage"
+NAME = "haxor A2 very uhq og 1337 genesis 1994 WALLAHHHHH"
 DESCRIPTION = "Build and validate Tabular Data Packages for ddionrails studies"
 URL = "https://github.com/paneldata/data-specification"
 EMAIL = "hfuetterer@diw.de"
